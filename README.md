@@ -1,6 +1,3 @@
-# whitgroves
-![](https://media.licdn.com/dms/image/v2/D5616AQHPkFNsK9rCww/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703202296311?e=1760572800&v=beta&t=yRa084D324-4kfka2eCiCSN-7H9eF253QxIljdvpt7U)
-
 ## Hello World!
 These are the personal projects I've been working on over the last few years. Some, (like [q3](https://github.com/whitgroves/q3) and [fintech-bootcamp-at-home](https://github.com/whitgroves/fintech-bootcamp-at-home)) are meant solely to showcase knowledge, while others ([clique-ml](https://github.com/whitgroves/clique-ml), [solidity-contracts](https://github.com/whitgroves/solidity-contracts), and [gamekit](https://github.com/whitgroves/gamekit)) are public libraries meant for practical use.
 
